@@ -1,0 +1,17 @@
+[28-Nov-2016 20:04:33 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 10:12:47 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 10:55:19 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration.php on line 7
+[30-Dec-2016 11:53:58 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[30-Dec-2016 11:54:00 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 04:22:05 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 04:22:05 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 22:34:44 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 22:34:45 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[05-Jan-2017 19:25:51 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/session.php on line 8
+[05-Jan-2017 20:17:07 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/iqsmarte/public_html/wp-includes/functions.php on line 8
+[05-Jan-2017 20:17:07 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home2/iqsmarte/public_html/wp-includes/functions.php on line 8
+[05-Jan-2017 20:17:07 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/iqsmarte/public_html/wp-includes/functions.php on line 8
+[05-Jan-2017 20:17:07 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/iqsmarte/public_html/wp-includes/functions.php on line 8
+[09-Mar-2017 14:19:35 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/rss-functions.php on line 8
+[22-Mar-2017 10:57:18 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
+[22-Mar-2017 15:29:27 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/iqsmarte/public_html/wp-includes/registration-functions.php on line 7
